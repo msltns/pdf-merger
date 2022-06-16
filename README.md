@@ -6,7 +6,7 @@ Forked from https://github.com/clegginabox/pdf-merger
 
 ## Installation
 
-```composer require jmleroux/pdf-merger```
+```composer require msltns/pdf-merger```
 
 ## Example Usage
 
