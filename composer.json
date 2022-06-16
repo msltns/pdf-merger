@@ -1,5 +1,5 @@
 {
-    "name": "jmleroux/pdf-merger",
+    "name": "msltns/pdf-merger",
     "description": "PDF File Merger for PHP 7",
     "type": "library",
     "license": "MIT",
