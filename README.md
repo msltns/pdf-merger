@@ -2,7 +2,7 @@
 
 Original written by http://pdfmerger.codeplex.com/team/view
 
-Forked from https://github.com/clegginabox/pdf-merger
+Forked from https://github.com/jmleroux/pdf-merger based on https://github.com/clegginabox/pdf-merger
 
 ## Installation
 
